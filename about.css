@@ -1,0 +1,20 @@
+::selection {
+  color: white;
+  background: black;
+}
+
+p::first-letter {
+  color: #ff0000;
+  font-size: xx-large;
+}
+
+p::first-line {
+  color: #0000ff;
+  font-variant: small-caps;
+}
+
+p {
+    text-align: center; 
+    background-image: url('media/bg.jpg'); 
+    height: 100px;
+}
