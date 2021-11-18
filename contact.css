@@ -1,0 +1,19 @@
+.contact-form label {
+    display: block;
+    margin-top: 10px;
+}
+
+.contact-form button{
+    background-color: black;
+    color:white;
+    font-weight: bold;
+    border: none;
+    padding: 10px 15px;
+    position: relative;
+    left:-20px;
+}
+
+.contact-form input {
+    padding: 8px;
+    width: 30%;
+}
